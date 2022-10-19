@@ -1,7 +1,7 @@
 ---
 theme: default
 layout: cover
-# background: './assets/futura-background-light.png'
+# background: 'assets/futura-background-light.png'
 highlighter: shiki
 colorSchema: light
 favicon: >-
@@ -21,8 +21,8 @@ h2 {
 
 <div class="absolute top-10">
 
-    Python Milano, 19/10/2022
-    Luca Baggi, Data Scientist @Futura
+    👤 Luca Baggi, Data Scientist @Futura
+    🐍 Python Milano 📆 19/10/2022
 </div>
 
 
@@ -43,7 +43,7 @@ h2 {
 
 ## ❓ What is `cookiecutter`?
 
-## ✅ Why use `cookiecutter`?
+## ✅ When should I use it?
 
 ## 🎬 A demo
 
@@ -77,5 +77,4 @@ layout: intro
 ---
 
 # 🙏 Thank you for your time!
-## 🎉 Special thanks to MIRTA & Python-Milano 🐍
-## ❓ Questions?
+## 🎉 Special thanks to [MIRTA](https://www.linkedin.com/company/mirtaofficial/) & [PyMi](http://milano.python.it/)! 
