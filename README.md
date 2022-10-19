@@ -1,6 +1,6 @@
 # Cookiecutter Tutorial 
 
-Single page application (SPA) for the [`cookiecutter`](https://www.cookiecutter.io/) [tutorial](https://www.eventbrite.com/e/double-feature-decoratori-cookiecutter-tickets-433530370007?aff=ebdsoporgprofile) I held @[Python Milano](http://milano.python.it/).
+Single page application (SPA) for the [`cookiecutter`](https://www.cookiecutter.io/) [tutorial](https://www.eventbrite.com/e/double-feature-decoratori-cookiecutter-tickets-433530370007?aff=ebdsoporgprofile) I held @[Python Milano](https://github.com/PythonMilano).
 
 ## Repo structure
 
