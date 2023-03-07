@@ -21,7 +21,7 @@ h2 {
 
 <div class="absolute top-10">
 
-    👤 Luca Baggi, Data Scientist @Futura
+    👤 Luca Baggi, ML Engineer @Futura
     🐍 Python Milano 📆 19/10/2022
 </div>
 
