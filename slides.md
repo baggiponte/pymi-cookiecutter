@@ -1,7 +1,6 @@
 ---
 theme: default
 layout: cover
-# background: 'assets/futura-background-light.png'
 highlighter: shiki
 colorSchema: light
 favicon: >-
