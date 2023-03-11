@@ -8,7 +8,9 @@ on:
       - slides.md
       - pages/**
       - components/**
-      - assets
+      - public
+      - package.json
+      - package-lock.json
 jobs:
   deploy:
     runs-on: ubuntu-latest
