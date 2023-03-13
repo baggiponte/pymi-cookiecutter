@@ -1,3 +1,9 @@
+## 1.2.1 (2023-03-13)
+
+### Fix
+
+- **ci**: fix yaml in dependabot.yml
+
 ## 1.2.0 (2023-03-11)
 
 ### Feat
