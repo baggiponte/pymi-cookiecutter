@@ -1,5 +1,5 @@
 {
-  "name": "slidev",
+  "name": "pymi-cookiecutter",
   "private": true,
   "scripts": {
     "build": "slidev build",
