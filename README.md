@@ -1,5 +1,7 @@
 # 🍪 Get started with `cookiecutter`
 
+[![cookiecutter slidev](https://img.shields.io/badge/cookiecutter-slidev-D4AA00?logo=cookiecutter&logoColor=fff)](https://github.com/baggiponte/cookiecutter-slidev)
+
 Source code for the single page application (SPA) of the [`cookiecutter`](https://www.cookiecutter.io/)'s tutorial I held @[Python Milano](https://github.com/PythonMilano).
 
 * 📽️ [Live](https://www.youtube.com/watch?v=XESObnka5Nc)
