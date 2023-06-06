@@ -5,34 +5,26 @@ highlighter: shiki
 colorSchema: light
 favicon: >-
   https://assets.website-files.com/6189495a8f80ad3e20ebcf60/618ea4f162c1162e46e8685b_Favico%20(1).png
+title: A formidable library to build coding project templates
 ---
 
+<img src="/logo-cookiecutter.svg" width="720">
+<br>
 
+## A formidable library to build coding project templates
 
-<div class="absolute top-10">
+<div class="absolute bottom-10">
 
-    👤 Luca Baggi, ML Engineer @Futura
-    🐍 Python Milano 📆 19/10/2022
-</div>
-
-
-<div class="absolute bottom-25">
-
-![cookiecutter-logo](https://raw.githubusercontent.com/cookiecutter/cookiecutter/main/logo/cookiecutter-logo.svg)
-
-    A formidable library to build
-    coding project templates
-</div>
-
-<div class="absolute bottom-5">
-
-<a href="github.com/baggiponte/pymi-cookiecutter">
-
-<img height="25" width="25" align="left" style="margin-right:0.5em" src="https://cdn.simpleicons.org/github"> <u><i>source</i></u>
-
-</a>
+    👤 Luca Baggi
+    💼 ML Engineer @Futura
+    🐍 Organiser @Python Milano
 
 </div>
+
+<div class="absolute right-5 top-5">
+<img height="150" width="150"  src="/qr-github.svg">
+</div>
+
 
 ---
 
@@ -55,6 +47,7 @@ favicon: >-
 ## 🍪 Moar treats!
 </v-clicks>
 
+
 ---
 src: ./pages/1.md
 ---
@@ -75,5 +68,18 @@ src: ./pages/4.md
 layout: intro
 ---
 
-# 🙏 Thank you for your time!
+# 🙋 Questions?
+
+
+---
+layout: intro
+---
+
+# 🙏 Thank you!
 ## 🎉 Special thanks to [MIRTA](https://www.linkedin.com/company/mirtaofficial/) & [PyMi](http://milano.python.it/)! 
+
+Please share your feedback with me: just email me at lucabaggi [at] duck.com
+
+<div class="absolute right-5 top-5">
+<img height="150" width="150"  src="/qr-linkedin.svg">
+</div>
