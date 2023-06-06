@@ -2,13 +2,14 @@
   "name": "pymi-cookiecutter",
   "private": true,
   "scripts": {
+    "preview": "slidev --open",
+    "format": "slidev format",
     "build": "slidev build",
-    "dev": "slidev --open",
     "export": "slidev export",
     "deploy": "slidev build slides.md --base /pymi-cookiecutter"
   },
   "dependencies": {
-    "@slidev/cli": "^0.40.9",
+    "@slidev/cli": "^0.42.4",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   }
