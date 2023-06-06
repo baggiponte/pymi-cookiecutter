@@ -7,16 +7,7 @@ favicon: >-
   https://assets.website-files.com/6189495a8f80ad3e20ebcf60/618ea4f162c1162e46e8685b_Favico%20(1).png
 ---
 
-<style>
-h1 {
-  font-weight: 600 !important;
-}
 
-h2 {
-  font-weight: 450 !important;
-  line-height: 1.8 !important;
-}
-</style>
 
 <div class="absolute top-10">
 
