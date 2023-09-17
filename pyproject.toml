@@ -1,0 +1,13 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "baggiponte", email = "57922983+baggiponte@users.noreply.github.com"},
+]
+dependencies = [
+    "cookiecutter>=2.3.0",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
